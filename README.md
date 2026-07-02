@@ -14,7 +14,7 @@ Once you're in, click "Upgrade Plan" and select Kiro Pro. You'll then see that t
 
 ![](kiro3.png)
 
-If you don't have a Mastercard or Visa, or if you're looking to create multiple accounts, you can use a virtual credit card (VCC) platform. I recommend a few reliable VCC providers here. Once you've signed up, you can contact their customer support to confirm whether their cards support Kiro subscriptions.
+If you don't have a Mastercard or Visa, or if you're looking to create multiple accounts, you can use a virtual credit card (VCC) platform. I recommend a few reliable VCC providers here. Once you've signed up, you can **contact their customer support to confirm whether their cards support Kiro subscriptions**.
 
 **HLCard：[https://www.hlcard.net/register?code=FC096115](https://www.hlcard.net/register?code=FC096115)**
 
